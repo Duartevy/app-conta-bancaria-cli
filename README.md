@@ -1,4 +1,4 @@
-# 💰 app-conta-bancaria-cli
+# 💰 Simulando Uma Conta Bancária Através Do Terminal/Console
 
 Aplicação Java simples que simula a criação de uma conta bancária com entrada de dados via terminal (CLI).
 
